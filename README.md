@@ -1,0 +1,2 @@
+# zhyninocr
+baidu ocr api.
